@@ -3,7 +3,7 @@
   # ✦ Olá, eu sou Cringe! 🦇
 
   <p align="center">
-    <b>Desenvolvedor(a) Independente • Pixel Artist • Criador(a) da Pyxie</b><br>
+    <b>Desenvolvedor(a) Independente • Criador(a) da Pyxie</b><br>
     <i>Criando sistemas, mundos em pixel art 16-bit e experimentos interativos na internet no meu próprio ritmo.</i>
   </p>
 

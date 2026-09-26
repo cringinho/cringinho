@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✦ Olá, eu sou Zululuga (Cringe-san) 🦇
+  # ✦ Olá, eu sou Cringe! 🦇
 
   <p align="center">
     <b>Desenvolvedor(a) Independente • Pixel Artist • Criador(a) da Pyxie</b><br>

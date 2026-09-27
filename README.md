@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Discord.js_v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-    <img src="https://img.shields.io/badge/Pixel_Art-E60067?style=for-the-badge&logo=aseprite&logoColor=white" alt="Pixel Art" />
     <img src="https://img.shields.io/badge/Vibe-Neurodivergente-8B5CF6?style=for-the-badge" alt="Neurodivergente" />
   </p>
 

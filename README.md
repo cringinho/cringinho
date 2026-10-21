@@ -42,7 +42,7 @@
 
 ### 🔮 Principais Projetos
 
-#### 🧚‍♀️ [Pyxie](https://github.com/zululuga/kuromi)
+#### 🧚‍♀️ [Pyxie](https://github.com/cringinho/kuromi)
 *Aplicação viva de entretenimento, economia virtual e RPG gótico para o Discord.*
 - **Bosque da Penumbra:** Módulo de dungeon crawler textual com negociação psicológica procedural inspirada em *Shin Megami Tensei*.
 - **Oráculo de Tarot:** Sistema proprietário de cartas geradas nativamente em Canvas com coleção e conquistas em tempo real.
@@ -54,8 +54,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zululuga&show_icons=true&theme=midnight-purple&hide_border=true&title_color=e60067&text_color=e2e8f0&icon_color=8b5cf6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zululuga&layout=compact&theme=midnight-purple&hide_border=true&title_color=e60067&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cringinho&show_icons=true&theme=midnight-purple&hide_border=true&title_color=e60067&text_color=e2e8f0&icon_color=8b5cf6" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cringinho&layout=compact&theme=midnight-purple&hide_border=true&title_color=e60067&text_color=e2e8f0" alt="Top Languages" />
 </div>
 
 ---
